@@ -17,6 +17,6 @@
 	$GLOBALS['domainname'] = "https://fivempanel.com/";				// URL (and folder if used) with protocol and trailing slash. Example: https://arthurmitchell.xyz/beta/
 	$GLOBALS['subfolder'] = ""; 								// If accessing via a sub folder type the sub folder name out like the following: /foldername Example: /staff otherwise leave blank
 	$GLOBALS['apikey'] = "";								 			// SteamCommunity API Key https://steamcommunity.com/dev/apikey
-	date_default_timezone_set('America/New_York');						// Timezone (http://php.net/manual/en/timezones.php)
+	date_default_timezone_set('Europe/London');						// Timezone (http://php.net/manual/en/timezones.php)
 
 ?>
