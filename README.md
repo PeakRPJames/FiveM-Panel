@@ -1,12 +1,9 @@
 <p align="center">
   <h1 align="center">
-      FiveM Admin Panel
+      Peak Admin Panel - incoperating QB Framework
   </h1>
-  <h3 align="center">
-      If you would like to report an issue or request a feature. Join our <a href="https://discord.gg/9EDbW8M">Discord</a>.
-  </h3>
   <h4 align="center">
-     Cloud Hosted Click <a href="https://fivempanel.com/">here</a>.
+     Peak RP - UK Hosted RP Server <a href="https://peakrp.co.uk/">here</a>.
   </h4>
 </p>
 
@@ -46,7 +43,7 @@
 * Much More
 
 ### Upcoming Features
-* Have an idea? Suggest it in our [Discord](https://discord.gg/9EDbW8M).
+* None Currently.
 
 ### Requirements
 * Web Server w/ PHP
@@ -57,12 +54,4 @@
 
 
 ### Installation
-* View our install guide on our wiki [here](https://github.com/CADOJRP/FiveM-AdministrationPanel/wiki/Installation)
-
-
-### Recommended Hosting
-* Cloud Version at <a href="https://fivempanel.co.uk/">https://fivempanel.com/</a> (Free)
-
-
-### Support
-* Join our [Discord](https://discord.gg/9EDbW8M) Server for Support.
+* Tutorial coming soon.
